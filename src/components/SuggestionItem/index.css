@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.list-item {
+  width: 100%;
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.list-name {
+  font-size: 15px;
+  font-weight: 400;
+  font-family: roboto;
+}
+.image2 {
+  width: 20px;
+}
+.button {
+  border: 0;
+}
